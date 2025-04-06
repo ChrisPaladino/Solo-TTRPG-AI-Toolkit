@@ -1,0 +1,4 @@
+<If I need an Image created, what would be the "style" - a genre, artists names - something that can capture the tone and theme of this campaign for my NPC portrait generation?
+Create a prompt for AI models that I can add onto. For example (this isn't specific to this campaign, but as an example of what I'd like as a prompt):
+	"Create a dramatic, cinematic portrait in a gritty neo-noir urban fantasy style in a square aspect ratio. Smoke, rust, and cold neon lighting dominate the mood. The tone is grounded, mysterious, and raw. The subject should reflect themes of betrayal, strength, and haunted beauty, as if they stepped out of a supernatural conspiracy thriller. Use chiaroscuro lighting, detailed textures (such as worn leather, velvet, blood-stained cloth) in the style of Greg Rutkowski, Dave McKean and Gerald Brom.
+	Here is the appearance of the character so far:">

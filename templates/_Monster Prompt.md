@@ -1,0 +1,10 @@
+Please create a monster profile with these header sections. In each section, write in paragraph form - not just bullet points. Use Markup Heading Level 5 (#####) for each of these sections, but no other text formatting (no BOLD, no ITALLICS).
+* Description: include description of physical traits, movement, voice (if any), size, odor, posture, and overall presence. Include details like what someone might notice first, how it sounds in the distance, and what makes it visually unique. If our notes do not state appearance, make up what you need to.
+* AI Appearance: a stripped-down version of this creature's appearance based ONLY on physical attributes. This field will be used to create the creature consistently in AI-Generated art programs
+* Tactics: How the creature behaves in and out of combat. What drives it—hunger, territory, vengeance, madness? Is it solitary or does it hunt in packs? Does it ambush or confront? Is it relentless, cunning, or erratic? What kind of prey does it prefer? Does it communicate? Is it intelligent? Even mute beasts can be narratively rich through posture or action.
+* Powers: Natural, supernatural or noteworthy abilities. This could include psychic effects, powers or passive characteristics. If applicable, include any known weaknesses or unusual defenses.
+* Background: What do the locals say about it? What is known and what is rumor? What names have the locals given it - true or false? Where appropriate, include conflicting lore and denote what is real or incorrect.
+* Quest Hook: A potential adventure or quest hook for this creature adn their background. 
+- Signs & Omens: Where appropriate (ie: uncommon or supernatural creatures), what strange signs precede the creature’s appearance? Wilting trees, dead birds, nightmares, silence, rust-colored snow? What remnants does it leave behind? Husks? Scars on trees or stone? Corruption? Droppings or waste?
+for NAME. Here are my notes. Please feel free to include any behaviors or story elements we've created thus far:
+

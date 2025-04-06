@@ -1,0 +1,3 @@
+When your scene becomes an Altered Scene, it shifts to the next most logical scenario as if the Game Master had said, “Let’s try something else instead.” The change can be minor, such as a single detail, or significant, but it must make sense as a plausible alternative to the original Expected Scene. Below are just two approaches to creating Altered Scenes:
+1. The Next Expectation: imagine what would logically happen next
+2. A Tweak: Focus on elements like the NPCs involved, the location, or the activity to create a single slight shift in the narrative.
