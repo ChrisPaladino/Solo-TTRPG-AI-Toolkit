@@ -1,11 +1,14 @@
 # Solo TTRPG AI Toolkit
-
 A series of templates, tips, and tricks to help solo TTRPG players enhance their experience using AI tools like ChatGPT, Claude, and Grok—especially when paired with Mythic Game Emulator (2E) and The Adventure Crafter.
 ## Introduction
-
 This toolkit is for solo role-players who want to blend traditional solo RPG tools with the power of modern AI. Whether you're crafting scenes, exploring emergent narratives, or managing campaigns with procedural tools like Mythic or Adventure Crafter, this repo will help you get started and stay organized.
+## Who This Is For
+This toolkit is ideal for solo roleplayers, writers, and GMs who want to:
+- Create deep, immersive stories without a group
+- Blend traditional solo RPG tools with modern AI assistance
+- Stay organized while improvising worlds, characters, and conflicts
+- Use procedural systems like Mythic GME and the Adventure Crafter more effectively
 ## Getting Started
-
 A quick primer on setting up your first AI-enhanced solo RPG session using:
 - AI tools (ChatGPT, Claude, Grok, etc.)
 - Mythic Game Emulator 2E by Tanya Pigeon
@@ -16,13 +19,29 @@ A quick primer on setting up your first AI-enhanced solo RPG session using:
 - Use prompt formatting effectively for scene creation, NPCs, and twist generation.
 - Avoid triggering content filters when working with dark, mature, or sensitive themes—we'll show you how to keep it tasteful and context-aware.
 ## Templates
-Quick-reference templates for key elements of solo RPG play:
-- Scene framing
-- Character generation and tracking
-- Worldbuilding
-- NPC and faction management
-- Campaign structure
-All templates are optimized for AI interaction and Markdown editing.
+Each Markdown file in the `/templates` folder is a pre-structured AI prompt, ready to drop into your preferred AI tool. These are designed to make solo TTRPG gameplay smoother, deeper, and more creative—especially when using procedural tools like Mythic GME or the Adventure Crafter.
+
+|Template File|Purpose|
+|---|---|
+|`_GM Prompt.md`|Establishes genre, tone, and narrative voice for the AI GM|
+|`_NPC Prompt.md`|Generates interesting, three-dimensional NPCs with agendas and quirks|
+|`_Faction Prompt.md`|Creates political or mystical factions with clear goals and conflicts|
+|`_Location Prompt.md`|Develops atmospheric and story-rich settings or regions|
+|`_Monster Prompt.md`|Designs thematic adversaries with narrative hooks|
+|`_Recap Prompt.md`|Summarizes the previous session in character or narrator voice|
+|`_Altered Scenes.md`|Rewrites or reframes a current scene based on new context or twists|
+|`_Image Generation.md`|Provides prompts for visualizing characters, items, or places|
+## How to Use the Templates
+1. **Choose a Template**  
+    Browse the `/templates` directory and select a Markdown file based on what you need: a new NPC, a monster, a recap, a faction, etc.
+2. **Copy into an AI Tool**  
+    Open your preferred AI (e.g., ChatGPT, Claude, Grok). Copy and paste the full template into the input field.
+3. **Fill in Brackets or Leave Blank**  
+    Templates use `[bracketed]` placeholders. You can fill them in for more control or leave them blank to let the AI improvise.
+4. **Review the Output**  
+    Edit or iterate as needed. Many prompts can be reused multiple times in a single session.
+5. **Optional**: Store results in Obsidian or a similar Markdown editor for campaign tracking.
+These templates are system-agnostic and can be adapted to fit any solo RPG structure, from narrative-heavy games like _Ironsworn_ to sandbox kits like _Freeform Universal_.
 ## Best Practices with AI
 Tips to keep your AI partner consistent, immersive, and helpful:
 - Use role-based prompts ("You are a gritty narrator in a sword & sorcery world...")
@@ -53,8 +72,8 @@ _templates/       → Prompts and structure sheets
 9 - Rules/        → Homebrew mechanics, quick rules summaries  
 ```
 ### Additional Tools
-- Mythic Game Master Emulator 2E by Tanya Pigeon
-- The Adventure Crafter by Tanya Pigeon
+- [Mythic Game Master Emulator 2E](https://wordmillgames.com/products/mythic-game-master-emulator-2nd-edition)  
+- [The Adventure Crafter](https://wordmillgames.com/products/the-adventure-crafter)
 - Affinity Designer / Photo 2 by Serif: Great for custom maps and visual assets
 - [Python RPG Tools by Chris Paladino](https://github.com/ChrisPaladino/PythonRPGUtilities)
 	- _(Shameless plug)_ A set of free tools for rolling on Adventure Crafter themes and Freeform Universal Action Dice    
@@ -71,3 +90,16 @@ These systems work beautifully for AI-enhanced solo play:
 - Legend in the Mist – Fantasy noir with mythic tones
 - City of Mist – Urban fantasy meets detective drama
 - Metro: Otherscape – Cyberpunk with philosophical soul
+## Contributing
+Feedback, suggestions, and pull requests are welcome. If you’ve created your own AI prompt templates, solo systems, or workflows that fit this toolkit, feel free to contribute.
+1. Fork the repo  
+2. Create a new branch  
+3. Submit a pull request
+You can also open an issue for discussion or request a feature.
+## Planned Additions
+This project is active and evolving. Future updates may include:
+- Full solo session walkthroughs using these templates
+- AI prompt variations for different tones and genres
+- Printable versions of core templates
+- Mythic & Crafter quick-reference sheets
+- Video walkthroughs or Obsidian vault demos

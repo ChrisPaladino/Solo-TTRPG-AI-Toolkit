@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/_Recap Prompt.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Recap Prompt"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/_Recap Prompt.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Recap Prompt"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/_Recap Prompt.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _Recap Prompt"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/_Recap Prompt.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Recap Prompt"
+              "title": "Outline of README"
             }
           }
         ]
@@ -169,6 +169,7 @@
   },
   "active": "f2c9166417c8c471",
   "lastOpenFiles": [
+    "templates/_Recap Prompt.md",
     "templates/_NPC Prompt.md",
     "templates/_Monster Prompt.md",
     "templates/_Location Prompt.md",
@@ -177,7 +178,6 @@
     "templates/_Faction Prompt.md",
     "templates/_Altered Scenes.md",
     "README.md",
-    "templates/_Recap Prompt.md",
     "examples",
     "templates"
   ]
