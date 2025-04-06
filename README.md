@@ -2,6 +2,29 @@
 A series of templates, tips, and tricks to help solo TTRPG players enhance their experience using AI tools like ChatGPT, Claude, and Grok—especially when paired with Mythic Game Emulator (2E) and The Adventure Crafter.
 ## Introduction
 This toolkit is for solo role-players who want to blend traditional solo RPG tools with the power of modern AI. Whether you're crafting scenes, exploring emergent narratives, or managing campaigns with procedural tools like Mythic or Adventure Crafter, this repo will help you get started and stay organized.
+
+## How to Get Started (No Coding Required)
+You don’t need to know anything about programming to use this toolkit. Follow these steps to get started:
+### Step 1: Download the Toolkit
+1. Go to the green **"Code"** button on this page.
+2. Click **"Download ZIP"**.
+3. Save the file somewhere on your computer (like your Desktop or Documents folder).
+	 ![[Pasted image 20250406164121.png]]
+### Step 2: Unzip the Folder
+1. Find the `.zip` file you just downloaded.
+2. Right-click it and choose **"Extract All"** (or double-click to unzip it).
+3. This will create a new folder called `Solo-TTRPG-AI-Toolkit`.
+### Step 3: Open the Templates
+1. Open the folder.
+2. Go to the `templates` folder inside.
+3. Double-click any `.md` file to open it in a text editor:
+    - Use **Notepad**, **Obsidian**, or **any Markdown viewer**.
+    - You don’t need special software to view or copy the prompts.
+### Step 4: Use a Template in AI
+1. Open your AI tool (like ChatGPT, Claude, or Grok).
+2. Copy the full text from one of the `.md` files.
+3. Paste it into the chat with your AI.
+4. Follow any bracketed instructions or leave them blank for improvisation.
 ## Who This Is For
 This toolkit is ideal for solo roleplayers, writers, and GMs who want to:
 - Create deep, immersive stories without a group
