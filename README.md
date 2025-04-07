@@ -9,7 +9,7 @@ You don’t need to know anything about programming to use this toolkit. Follow 
 1. Go to the green **"Code"** button on this page.
 2. Click **"Download ZIP"**.
 3. Save the file somewhere on your computer (like your Desktop or Documents folder).
-	 ![[Pasted image 20250406164121.png]]
+	 ![[GitHubDownload.png]]
 ### Step 2: Unzip the Folder
 1. Find the `.zip` file you just downloaded.
 2. Right-click it and choose **"Extract All"** (or double-click to unzip it).

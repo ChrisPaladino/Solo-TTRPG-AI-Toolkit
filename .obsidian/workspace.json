@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "0bad9b43e543a3d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "examples/Example of Play - Session 005 - Tomorrow City.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Example of Play - Session 005 - Tomorrow City"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "examples/Example of Play - Session 005 - Tomorrow City.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Example of Play - Session 005 - Tomorrow City"
             }
           },
           {
@@ -167,19 +182,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2c9166417c8c471",
+  "active": "0bad9b43e543a3d1",
   "lastOpenFiles": [
-    "Pasted image 20250406164121.png",
-    "templates/_Recap Prompt.md",
-    "templates/_NPC Prompt.md",
-    "templates/_Monster Prompt.md",
-    "templates/_Location Prompt.md",
-    "templates/_Image Generation.md",
-    "templates/_GM Prompt.md",
-    "templates/_Faction Prompt.md",
-    "templates/_Altered Scenes.md",
+    "_assets/CharacterThreadList.png",
+    "_assets/GitHubDownload.png",
+    "examples/Example of Play - Session 005 - Tomorrow City.md",
+    "Pasted image 20250406205544.png",
+    "examples/Example of Play - Session 005.md",
+    "_assets/Game Materials/Weather.jpg",
+    "_assets/Game Materials",
     "README.md",
+    "_assets",
+    "_templates/_Recap Prompt.md",
+    "_templates/_NPC Prompt.md",
+    "_templates/_Monster Prompt.md",
+    "_templates/_Location Prompt.md",
+    "_templates/_Image Generation.md",
+    "_templates/_GM Prompt.md",
+    "_templates/_Faction Prompt.md",
+    "_templates/_Altered Scenes.md",
     "examples",
-    "templates"
+    "_templates"
   ]
 }
