@@ -46,14 +46,15 @@ Each Markdown file in the `/templates` folder is a pre-structured AI prompt, rea
 
 |Template File|Purpose|
 |---|---|
-|`_GM Prompt.md`|Establishes genre, tone, and narrative voice for the AI GM|
-|`_NPC Prompt.md`|Generates interesting, three-dimensional NPCs with agendas and quirks|
-|`_Faction Prompt.md`|Creates political or mystical factions with clear goals and conflicts|
-|`_Location Prompt.md`|Develops atmospheric and story-rich settings or regions|
-|`_Monster Prompt.md`|Designs thematic adversaries with narrative hooks|
-|`_Recap Prompt.md`|Summarizes the previous session in character or narrator voice|
-|`_Altered Scenes.md`|Rewrites or reframes a current scene based on new context or twists|
-|`_Image Generation.md`|Provides prompts for visualizing characters, items, or places|
+|`_Prompt Faction.md`|Creates political or mystical factions with clear goals and conflicts|
+|`_Prompt GM.md`|Establishes genre, tone, and narrative voice for the AI GM|
+|`_Prompt Image.md`|Provides prompts for visualizing characters, items, or places|
+|`_Prompt Location.md`|Develops atmospheric and story-rich settings or regions|
+|`_Prompt Monster.md`|Designs thematic adversaries with narrative hooks|
+|`_Prompt NPC.md`|Generates interesting, three-dimensional NPCs with agendas and quirks|
+|`_Prompt Recap.md`|Summarizes the previous session in character or narrator voice|
+|`_Prompt Vehicle.md`|Designs a vehicle, or class of vehicles including narrative hooks and named uniques|
+|`_Scene Altered.md`|Rewrites or reframes a current scene based on new context or twists|
 ## How to Use the Templates
 1. **Choose a Template**  
     Browse the `/templates` directory and select a Markdown file based on what you need: a new NPC, a monster, a recap, a faction, etc.
